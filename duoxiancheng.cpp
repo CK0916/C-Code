@@ -1,3 +1,4 @@
+// This is a programming example for C++11
 # include<iostream>
 # include<thread>
 
