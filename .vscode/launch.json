@@ -13,7 +13,7 @@
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
             "environment": [],
-            // "externalConsole": true,
+            "externalConsole": true,
             "MIMode": "gdb",
             "preLaunchTask": "c_pre_build",             //添加此条，配置在运行前进行编译，引号中的名字随便取
             "setupCommands": [
