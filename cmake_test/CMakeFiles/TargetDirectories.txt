@@ -1,0 +1,3 @@
+/home/wangzheng/C-Code/cmake_test/CMakeFiles/edit_cache.dir
+/home/wangzheng/C-Code/cmake_test/CMakeFiles/rebuild_cache.dir
+/home/wangzheng/C-Code/cmake_test/CMakeFiles/Demo.dir
