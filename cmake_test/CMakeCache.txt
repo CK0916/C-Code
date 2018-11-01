@@ -114,7 +114,7 @@ CMAKE_OBJCOPY:FILEPATH=/usr/bin/objcopy
 CMAKE_OBJDUMP:FILEPATH=/usr/bin/objdump
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=Demo1
+CMAKE_PROJECT_NAME:STATIC=Demo3
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/usr/bin/ranlib
@@ -170,6 +170,21 @@ Demo1_BINARY_DIR:STATIC=/home/wangzheng/C-Code/cmake_test
 
 //Value Computed by CMake
 Demo1_SOURCE_DIR:STATIC=/home/wangzheng/C-Code/cmake_test
+
+//Value Computed by CMake
+Demo2_BINARY_DIR:STATIC=/home/wangzheng/C-Code/cmake_test
+
+//Value Computed by CMake
+Demo2_SOURCE_DIR:STATIC=/home/wangzheng/C-Code/cmake_test
+
+//Value Computed by CMake
+Demo3_BINARY_DIR:STATIC=/home/wangzheng/C-Code/cmake_test
+
+//Value Computed by CMake
+Demo3_SOURCE_DIR:STATIC=/home/wangzheng/C-Code/cmake_test
+
+//Dependencies for target
+MathFunctions_LIB_DEPENDS:STATIC=
 
 
 ########################
@@ -262,7 +277,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=1
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=2
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

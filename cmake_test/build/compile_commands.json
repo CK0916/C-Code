@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/wangzheng/C-Code/cmake_test/build",
+  "command": "/usr/bin/g++-5     -g   -o CMakeFiles/Demo.dir/main.cc.o -c /home/wangzheng/C-Code/cmake_test/main.cc",
+  "file": "/home/wangzheng/C-Code/cmake_test/main.cc"
+},
+{
+  "directory": "/home/wangzheng/C-Code/cmake_test/build/math",
+  "command": "/usr/bin/g++-5     -g   -o CMakeFiles/MathFunctions.dir/MathFunctions.cc.o -c /home/wangzheng/C-Code/cmake_test/math/MathFunctions.cc",
+  "file": "/home/wangzheng/C-Code/cmake_test/math/MathFunctions.cc"
+}
+]

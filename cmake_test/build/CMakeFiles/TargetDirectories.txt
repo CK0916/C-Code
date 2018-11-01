@@ -1,0 +1,6 @@
+/home/wangzheng/C-Code/cmake_test/build/CMakeFiles/edit_cache.dir
+/home/wangzheng/C-Code/cmake_test/build/CMakeFiles/rebuild_cache.dir
+/home/wangzheng/C-Code/cmake_test/build/CMakeFiles/Demo.dir
+/home/wangzheng/C-Code/cmake_test/build/math/CMakeFiles/edit_cache.dir
+/home/wangzheng/C-Code/cmake_test/build/math/CMakeFiles/rebuild_cache.dir
+/home/wangzheng/C-Code/cmake_test/build/math/CMakeFiles/MathFunctions.dir
