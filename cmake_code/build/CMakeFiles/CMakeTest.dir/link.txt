@@ -1,0 +1,1 @@
+/usr/bin/g++-5   -g   CMakeFiles/CMakeTest.dir/main.cc.o  -o CMakeTest -rdynamic lib/libPrinterlib.a 

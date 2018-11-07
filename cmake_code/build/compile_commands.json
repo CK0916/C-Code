@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/wangzheng/C-Code/cmake_code/build",
+  "command": "/usr/bin/g++-5     -g   -o CMakeFiles/CMakeTest.dir/main.cc.o -c /home/wangzheng/C-Code/cmake_code/main.cc",
+  "file": "/home/wangzheng/C-Code/cmake_code/main.cc"
+},
+{
+  "directory": "/home/wangzheng/C-Code/cmake_code/build/lib",
+  "command": "/usr/bin/g++-5     -g   -o CMakeFiles/Printerlib.dir/Printer.cc.o -c /home/wangzheng/C-Code/cmake_code/lib/Printer.cc",
+  "file": "/home/wangzheng/C-Code/cmake_code/lib/Printer.cc"
+}
+]

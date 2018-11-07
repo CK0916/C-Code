@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wangzheng/C-Code/cmake_code/lib/Printer.h
+
+/home/wangzheng/C-Code/cmake_code/main.cc
+lib/Printer.h
+/home/wangzheng/C-Code/cmake_code/lib/Printer.h
+

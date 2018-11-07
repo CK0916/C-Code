@@ -1,0 +1,6 @@
+/home/wangzheng/C-Code/cmake_code/build/CMakeFiles/rebuild_cache.dir
+/home/wangzheng/C-Code/cmake_code/build/CMakeFiles/edit_cache.dir
+/home/wangzheng/C-Code/cmake_code/build/CMakeFiles/CMakeTest.dir
+/home/wangzheng/C-Code/cmake_code/build/lib/CMakeFiles/rebuild_cache.dir
+/home/wangzheng/C-Code/cmake_code/build/lib/CMakeFiles/edit_cache.dir
+/home/wangzheng/C-Code/cmake_code/build/lib/CMakeFiles/Printerlib.dir
